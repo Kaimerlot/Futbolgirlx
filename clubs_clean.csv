@@ -1,0 +1,17 @@
+club_id,name,city,stadium,capacity,stadium_status,founded,avg_attendance_latest,shirt_sponsor,metro_pop,enterprise_value_usd,valuation_source,initial_share_price_fxd
+AC,Angel City FC,Los Angeles CA,BMO Stadium,22000.0,shared,2020.0,15851.0,DoorDash,12844441.0,340000000,Published (Forbes/Sportico),34.0
+BAY,Bay FC,San Jose CA,PayPal Park,18000.0,leased,2023.0,12126.0,Sutter Health,4630000.0,230000000,Published (Forbes/Sportico),22.77
+BOS,Boston Legacy FC,Foxborough / Pawtucket (Greater Boston),Gillette Stadium (primary 2026; also Centreville BankStadium),,leased/shared,2023.0,10809.0,TJ Maxx,5034221.0,166161052,Model estimate,16.45
+CHI,Chicago Stars FC,Evanston IL,Martin Stadium (Northwestern Medicine Field),12023.0,leased,2006.0,4552.0,Wintrust,9434123.0,144000000,Published (Forbes/Sportico),14.26
+DEN,Denver Summit FC,Centennial CO,Centennial  Stadium,12000.0,"leased/temporary (some 2026 games at other"" venues)",2025.0,16635.0,unknown (Canvas Credit Union sleeve),3092037.0,185516522,Model estimate,18.36
+GTH,NJ/NY Gotham FC,Harrison NJ,Sports Illustrated Stadium,25000.0,leased,2007.0,10943.0,CarMax,20112448.0,350000000,Published (Forbes/Sportico),35.7
+HOU,Houston Dash,Houston TX,Shell Energy Stadium,22039.0,shared,2013.0,6917.0,MD Anderson Cancer Center,7904627.0,130000000,Model estimate,12.87
+KC,Kansas City Current,Kansas City MO,CPKC Stadium,11500.0,owned,2020.0,11533.0,United Way,2270682.0,325000000,Published (Forbes/Sportico),33.15
+NC,North Carolina Courage,Cary NC,WakeMed Soccer Park / First Horizon Stadium,10000.0,owned/shared,2017.0,8364.0,Merz Aesthetics,1595720.0,158656898,Model estimate,16.03
+ORL,Orlando Pride,Orlando FL,Inter&Co Stadium,25500.0,shared,2015.0,8249.0,Orlando Health,2957672.0,130000000,Model estimate,12.87
+POR,Portland Thorns FC,Portland OR,Providence Park,25218.0,shared,2012.0,19073.0,Ring,2542282.0,205000000,Published (Forbes/Sportico),20.5
+LOU,Racing Louisville FC,Louisville KY,Lynn Family Stadium,11700.0,owned,2019.0,5454.0,GE,1402509.0,135465653,Model estimate,13.41
+SD,San Diego Wave FC,San Diego CA,Snapdragon Stadium,35000.0,shared,2021.0,12284.0,Kaiser Permanente,3282248.0,225000000,Published (Forbes/Sportico),22.5
+SEA,Seattle Reign FC,Seattle WA,Lumen Field,10000.0,shared,2012.0,7863.0,Trupanion,4161883.0,131317002,Model estimate,13.13
+UTA,Utah Royals,Sandy UT,"America First"" Field",20213.0,shared,2017.0,9143.0,America First Credit Union,1308377.0,130000000,Model estimate,13.0
+WAS,Washington Spirit,Washington DC,Audi Field,20000.0,shared,2011.0,16260.0,CVS Health,6465724.0,215000000,Published (Forbes/Sportico),21.93
