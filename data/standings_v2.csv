@@ -1,0 +1,49 @@
+club_id,season,played,wins,draws,losses,goals_for,goals_against,points,final_rank,playoff_result,source_url,as_of_date,notes
+AC,2024,26,7,6,13,29,42,24,12,DNQ,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,"3-point deduction (21 pts from results, 24 published)"
+AC,2025,26,7,6,13,31,41,27,11,DNQ,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,
+AC,2026,30,15,7,8,54,32,52,5,Quarterfinal,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
+BAY,2024,26,11,1,14,31,41,34,7,Quarterfinal,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,
+BAY,2025,26,4,8,14,26,41,20,13,DNQ,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,
+BAY,2026,30,7,6,17,30,47,27,14,DNQ,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
+BOS,2024,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,did not play,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,"Expansion club, first season 2026"
+BOS,2025,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,did not play,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,"Expansion club, first season 2026"
+BOS,2026,30,9,6,15,41,53,33,13,DNQ,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
+CHI,2024,26,10,2,14,31,38,32,8,Quarterfinal,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,Then named Chicago Red Stars
+CHI,2025,26,3,11,12,32,54,20,14,DNQ,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,Then named Chicago Red Stars; tied with BAY on 20 pts
+CHI,2026,30,5,2,23,17,71,17,16,DNQ,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,Renamed Chicago Stars FC
+DEN,2024,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,did not play,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,"Expansion club, first season 2026"
+DEN,2025,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,did not play,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,"Expansion club, first season 2026"
+DEN,2026,30,11,8,11,53,42,41,10,DNQ,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
+GTH,2024,26,17,5,4,41,20,56,3,Semifinal,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,
+GTH,2025,26,9,9,8,35,25,36,8,Champion,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,
+GTH,2026,30,18,7,5,39,23,61,1,Semifinal,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
+HOU,2024,26,5,5,16,20,42,20,14,DNQ,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,
+HOU,2025,26,8,6,12,27,39,30,10,DNQ,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,
+HOU,2026,30,9,6,15,38,44,33,12,DNQ,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,Tied with BOS on 33 pts; order as published
+KC,2024,26,16,7,3,57,31,55,4,Semifinal,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,
+KC,2025,26,21,2,3,49,13,65,1,Quarterfinal,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,"RSSSF prints 55 pts (typo): 21W+2D=65, matches Yahoo/AP report of 65 pts"
+KC,2026,30,16,5,9,54,39,53,4,Final (pending),https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
+NC,2024,26,12,3,11,34,28,39,5,Quarterfinal,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,
+NC,2025,26,9,8,9,37,39,35,9,DNQ,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,
+NC,2026,30,14,3,13,52,42,45,9,DNQ,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
+ORL,2024,26,18,6,2,46,20,60,1,Champion,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,
+ORL,2025,26,11,7,8,33,27,40,4,Semifinal,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,
+ORL,2026,30,11,3,16,39,47,36,11,DNQ,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
+POR,2024,26,10,4,12,37,35,34,6,Quarterfinal,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,Rank 6 and BAY rank 7 tied on 34 pts; order as published
+POR,2025,26,11,7,8,36,29,40,3,Semifinal,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,Tied with ORL on 40 pts; order as published
+POR,2026,30,14,8,8,50,41,50,6,Quarterfinal,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
+LOU,2024,26,7,7,12,33,39,28,9,DNQ,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,
+LOU,2025,26,10,7,9,35,38,37,7,Quarterfinal,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,
+LOU,2026,30,7,3,20,38,62,24,15,DNQ,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
+SD,2024,26,6,7,13,24,35,25,10,DNQ,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,
+SD,2025,26,10,7,9,41,34,37,6,Quarterfinal,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,Tied with LOU on 37 pts; order as published
+SD,2026,30,18,4,8,45,31,58,2,Quarterfinal,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
+SEA,2024,26,6,5,15,27,44,23,13,DNQ,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,Club renamed from OL Reign to Seattle Reign
+SEA,2025,26,10,9,7,32,29,39,5,Quarterfinal,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,
+SEA,2026,30,14,5,11,37,33,47,8,Quarterfinal,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
+UTA,2024,26,7,4,15,22,40,25,11,DNQ,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,
+UTA,2025,26,6,7,13,28,42,25,12,DNQ,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,
+UTA,2026,30,14,5,11,44,39,47,7,Semifinal,https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,Tied with SEA on 47 pts; order as published
+WAS,2024,26,18,2,6,51,28,56,2,Runner-up,https://rsssf.org/tablesu/usa-wom2024.html,2026-11-21,
+WAS,2025,26,12,8,6,42,33,44,2,Runner-up,https://rsssf.org/tablesu/usa-wom2025.html,2026-11-21,
+WAS,2026,30,17,4,9,43,28,55,3,Final (pending),https://rsssf.org/tablesu/usa-wom2026.html,2026-11-21,
